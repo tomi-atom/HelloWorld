@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ini Aplikasi Pertama</string>
+    <string name="hello">Menampilkan Gambar di Aplikasi Android</string>
+</resources>
